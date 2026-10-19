@@ -2,10 +2,10 @@
 Hell looks at you and laughs!
 Welcome to The Mouse & 17 Demons,A rage game made in powerpoint for wrong tool ysws
 # How do i play this?
-You can play this by:
-Clicking on that green button and clicking download zip
-Extract the zip 
-and then double clicking the Mouse_&_17_Demons.pptm file (Make sure you have powerpoint installed!)
+You can play this by:<br>
+-> Clicking on that green button and clicking download zip <br>
+-> Extract the zip<br> 
+-> Then double clicking the Mouse_&_17_Demons.pptm file (Make sure you have powerpoint installed!)
 <img width="608" height="24" alt="{F586BD88-F9FE-4AA8-ABA2-0DF3A03C174E}" src="https://github.com/user-attachments/assets/e328818a-c801-4cea-8fe1-81e8d4ef21ff" />
 <p>Double Click This!</p>
 
