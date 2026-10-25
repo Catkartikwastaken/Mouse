@@ -2,31 +2,6 @@
 
 Hell looks at you and laughs!
 Welcome to The Mouse & 17 Demons,A rage game made in powerpoint for wrong tool ysws
-
-## Play it in a browser
-
-The whole game is now available as a single HTML file - no PowerPoint required.
-
-1. Download this repository (or just the `Mouse_&_17_Demons.html` file **together with
-   the `assets` folder** - they belong next to each other).
-2. Open `Mouse_&_17_Demons.html` in any modern browser (Chrome, Edge, Firefox, Safari).
-3. Click the shapes to play. Keyboard also works:
-   <kbd>Space</kbd> / <kbd>&rarr;</kbd> next slide, <kbd>&larr;</kbd> previous,
-   <kbd>Home</kbd> / <kbd>End</kbd> first / last slide, <kbd>R</kbd> restart.
-
-**Playtesting shortcut:** <kbd>&rarr;</kbd> / <kbd>&darr;</kbd> (or
-<kbd>Space</kbd>, <kbd>PageDown</kbd>, <kbd>Enter</kbd>) jump straight to the next
-level and <kbd>&larr;</kbd> / <kbd>&uarr;</kbd> to the previous one, from any point
-of any slide - including while an animation is still playing. This is deliberately
-kept in the browser build so levels can be skipped while testing; it has nothing to
-do with the in-game click/hover logic.
-
-The browser build reproduces the original exactly: the same 50 slides, the same
-animations, the same sound effects, the same click/hover traps and the same Office
-Math formula.
-
-## Play it in PowerPoint
-
 You can play this by:<br>
 -> Clicking on that green button and clicking download zip<br>
 -> Extract the zip<br>
