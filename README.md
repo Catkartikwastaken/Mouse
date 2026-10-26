@@ -18,7 +18,7 @@ Your goal is to defeat the demon and get out this hellish place ASAP
 <img width="817" height="461" alt="{622A4473-2382-4622-8805-E898B800F424}" src="https://github.com/user-attachments/assets/0e4c0730-6939-40cd-9210-a508d5889918" />
 <p>Precursor to slack fight</p> 
 <img width="814" height="457" alt="{C08169E2-8D13-4DCD-8809-21DDE5CC5C13}" src="https://github.com/user-attachments/assets/455d43c7-4597-46fe-be12-8ac74667ef74" />
-<p>Precursor to final fight</p>
+<p>Precursor to final(?) fight</p>
 <img width="816" height="463" alt="{AAA29A93-EE1D-4986-A600-864CF97A2D9F}" src="https://github.com/user-attachments/assets/50629ec4-3e38-42bb-893a-4081b87099b0" />
 <p>A random level</p>
 
